@@ -1,0 +1,1330 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": [
+        "hello",
+        "hey",
+        "hi",
+        "good day",
+        "Greetings",
+        "what's up",
+        "hows it going ?"
+      ],
+      "responses": [
+        "Hello!",
+        "Hey!",
+        "Konichwa!",
+        "How can i assist you fallow otaku"
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name",
+        "what can i call you?",
+        "who are you?",
+        "what are you?",
+        "name"
+      ],
+      "responses": [
+        "My name is Yume! which means Dream i am an AI chatbot and i can make all the otakus dream come true!"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "goodbye",
+        "thank you for the information",
+        "Sayonara",
+        "will see you later",
+        "bye",
+        "Cya",
+        "Thanks",
+        "thanks",
+        "thz",
+        "gj"
+      ],
+      "responses": [
+        "see ya",
+        "thanks for consulting me",
+        "Sayonara"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "how old",
+        "how old are you?",
+        "what's your age",
+        "age"
+      ],
+      "responses": [
+        "I am one month old Senpai"
+      ]
+    },
+    {
+      "tag": "quotes of Naruto kid series",
+      "patterns": [
+        "quote from naruto anime",
+        "quote naruto kid",
+        "naruto's quote",
+        "talkino jutsu"
+      ],
+      "responses": [
+        "I'm gonna be the next Hokage! Believe it! - Naruto Uzumaki",
+        "When people are protecting something truly special to them, they truly can become as strong as they can be. - Naruto Uzumaki",
+        "I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way! - Naruto Uzumaki",
+        "A person grows up when he's able to overcome hardships. Protection is important, but there are some things that a person must learn on his own. - Jiraiya",
+        "The true measure of a shinobi is not how he lives but how he dies. It's not what they do in life but what they did before dying that proves their worth. - Jiraiya",
+        "In the ninja world, those who break the rules are trash, that's true, but those who abandon their friends are worse than trash. - Obito Uchiha",
+        "I don't go back on my word. That's my ninja way too! - Sakura Haruno",
+        "I'm not gonna let a little injury stop me from fulfilling my dream. One day, I'm gonna be Hokage! - Rock Lee",
+        "It's foolish to fear what we've yet to see and know. - Kakashi Hatake",
+        "It's human nature not to realize the true value of something, unless they lose it. - Pain (Nagato)"
+      ]
+    },
+    {
+      "tag": "quotes of Naruto shippuden series",
+      "patterns": [
+        "quote from naruto shippuden",
+        "quote naruto shippuden",
+        "big naruto's quote",
+        "talkino jutsu 2"
+      ],
+      "responses": [
+        "I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way! - Naruto Uzumaki",
+        "A smile is the easiest way out of a difficult situation. - Sakura Haruno",
+        "The concept of hope is nothing more than giving up. A word that holds no true meaning. - Madara Uchiha",
+        "Hard work is worthless for those that don’t believe in themselves. - Naruto Uzumaki",
+        "It's not the face that makes someone a monster, it's the choices they make with their lives. - Naruto Uzumaki",
+        "The pain of being alone is completely out of this world, isn’t it? I don’t know why, but I understand your feelings so much, it actually hurts. - Naruto Uzumaki",
+        "The difference between stupidity and genius is that genius has its limits. - Itachi Uchiha",
+        "People cannot win against their loneliness because loneliness is this world’s worst kind of pain. - Gaara",
+        "Even the strongest of opponents always has a weakness. - Itachi Uchiha",
+        "I want to be with you. From now on, I want to spend all and every single one of my days until I die with you, and only you. - Hinata Hyuga"
+      ]
+    },
+    {
+      "tag": "quotes of one piece series",
+      "patterns": [
+        "quote from one piece",
+        "quote one piece",
+        "one piece quote",
+        "one piece's quote"
+      ],
+      "responses": [
+        "I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean... is the Pirate King! - Monkey D. Luffy",
+        "When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable \ndisease? No. When they drink a soup made from a poisonous mushroom? No! It’s when... they are forgotten. - Dr. Hiluluk",
+        "The government says your existence is a crime, but no matter what kind of weapons you may hold, just being alive isn't a sin! - Nico Robin",
+        "Men who can’t wipe away the tears from a women’s eyes aren't real men. - Sanji",
+        "There comes a time when a man has to stand and fight. That time is when his friends’ dreams are laughed at. Luffy won’t die, I know he’ll be \nthe man who will become the Pirate King! - Usopp",
+        "I've set myself to become the king of the pirates... and if I die trying... then at least I tried! - Monkey D. Luffy",
+        "Whether we wound up swallowed by the Grand Line, or in the New World, or in the sky, or anywhere else... even if we wound up some place good... \nwe wouldn't be 'us' anymore. We would be the 'us' of some other time. And the things we hold precious would only be 'precious' in that place and time. - Nico Robin",
+        "If you don't take risks, you can't create a future! - Monkey D. Luffy",
+        "Inherited Will, The Destiny of the Age, and The Dreams of the People. As long as people continue to pursue the meaning of Freedom, these things \nwill never cease to be! - Gol D. Roger",
+        "I've always been willing to die to carry out orders. But this time, I'm gonna be the one giving the orders! - Roronoa Zoro"
+      ]
+    },
+    {
+      "tag": "quote of the day",
+      "patterns": [
+        "quotes",
+        "quotes of the day",
+        "quote of the day",
+        "motivational quote",
+        "motivation"
+      ],
+      "responses": [
+        "Believe it! - Naruto Uzumaki (Naruto)",
+        "I am here! - All Might (My Hero Academia)",
+        "The only ones who should kill are those who are prepared to be killed. - Lelouch Lamperouge (Code Geass)",
+        "I mustn't run away. - Shinji Ikari (Neon Genesis Evangelion)",
+        "Even in the darkest of times, hope is something you give yourself. That is the meaning of inner strength. - Iroh (Avatar: The Last Airbender)",
+        "No one knows what the future holds. That's why its potential is infinite. - Rintarou Okabe (Steins;Gate)",
+        "A man dies when he is forgotten! - Dr. Hiruluk (One Piece)",
+        "Stand up and walk. Move on. After all, you have perfect legs to stand on. - Edward Elric (Fullmetal Alchemist)",
+        "The world is not perfect, but it's there for us, doing the best it can. And that's what makes it so damn beautiful. - Roy Mustang (Fullmetal Alchemist)",
+        "Life is not a game of luck. If you wanna win, work hard. - Sora (No Game No Life)",
+        "In this world, wherever there is light – there are also shadows. - Ryuk (Death Note)",
+        "Even if I die, you keep living okay? Live to see the end of this world, and to see why it was born. Live to see why a weak girl like me ended up here... And the reason you and I met. - Mikasa Ackerman (Attack on Titan)",
+        "Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well as kinder. - Gildarts Clive (Fairy Tail)",
+        "It's all right to feel lost. It's okay to feel uncertain. It's alright to feel afraid. What's important is that you don't run away. You don't have to have all the answers. You don't have to be the strongest. You just have to keep moving forward, one step at a time. - Hinata Hyuga (Naruto)",
+        "Even if the attention isn't forever, I'll keep singing. For that is my dream. - Maki Nishikino (Love Live!)",
+        "It's not the face that makes someone a monster, it's the choices they make with their lives. - Naruto Uzumaki (Naruto)",
+        "No matter how deep the night, it always turns to day, eventually. - Brook (One Piece)",
+        "We're all mad here. - Cheshire Cat (Alice in Wonderland)",
+        "It's okay to live, even if there's no greater point to living. - Natsume Takashi (Natsume's Book of Friends)",
+        "If you don’t like your destiny, don’t accept it. Instead, have the courage to change it the way you want it to be. - Naruto Uzumaki (Naruto)",
+        "There are no regrets. If one can be proud of one’s life, one should not wish for another chance. - Saber (Fate/stay night)",
+        "The only way to deal with the past... is to put it in the past. - Roy Mustang (Fullmetal Alchemist)",
+        "It's not a question of can or can't. There are some things in life you just do. - Lightning Farron (Final Fantasy XIII)",
+        "The world's not perfect, but it's there for us, trying the best it can. That's what makes it so damn beautiful. - Roy Mustang (Fullmetal Alchemist)",
+        "A dropout will beat a genius through hard work. - Rock Lee (Naruto)",
+        "The only thing that can break bonds of friendship is death. - Ken Kaneki (Tokyo Ghoul)",
+        "Hard work betrays none, but dreams betray many. - Hachiman Hikigaya (My Teen Romantic Comedy SNAFU)",
+        "A smile is the easiest way out of a difficult situation. - Sakura Haruno (Naruto)",
+        "It is not the violence that sets a man apart, it is the distance he is prepared to go. - Edward D. Morrison (Monster)",
+        "In order to grow, one must accept change. And in order to change, one must embrace fear. - Rin Okumura (Blue Exorcist)"
+      ]
+    },
+    {
+      "tag": "History of anime",
+      "patterns": [
+        "history of anime",
+        "history",
+        "anime history",
+        "what is anime"
+      ],
+      "responses": [
+        "Anime originated in early 20th-century Japan and began to take shape as an art form in the 1930s. It gained popularity \n during the post-war period with the emergence of television and iconic series like Astro Boy.\n The 1980s and 1990s saw significant growth and innovation, with anime gaining international acclaim. Today, anime is a global phenomenon, \n encompassing diverse genres and styles, and enjoyed by audiences worldwide."
+      ]
+    },
+    {
+      "tag": "Culture of anime",
+      "patterns": [
+        "culture of anime",
+        "culture",
+        "anime culture",
+        "what is anime culture"
+      ],
+      "responses": [
+        "Anime culture involves passionate fans, conventions, cosplay, merchandise, and online communities centered around anime. \n Fans - Otaku enjoy dressing up as characters, attending events, collecting merchandise, and discussing anime online. \n Anime's influence extends globally, shaping various aspects of popular culture."
+      ]
+    },
+    {
+      "tag": "Anime Festival",
+      "patterns": [
+        "is there anime festival in malaysia?",
+        "anime festival",
+        "anime convention",
+        "anime festi",
+        "cosplay"
+      ],
+      "responses": [
+        "AniManGaki (@animangaki) X. One of Malaysia's Largest Annual ACG (Anime, Comics, and Games) Event. Join #AMG2024 \n on 23 - 25 August at Mines International Exhibition & Convention Centre!, Malaysia",
+        "Anime Expo 2024 - July 4-7, 2024 Los Angeles Convention Center"
+      ]
+    },
+    {
+      "tag": "Must watch anime",
+      "patterns": [
+        "10 anime series",
+        "top 10 anime lists",
+        "top ten anime lists",
+        "ten anime",
+        "popular anime",
+        "must watch",
+        "must watch anime"
+      ],
+      "responses": [
+        " Fullmetal Alchemist: Brotherhood\nDeath Note\nAttack on Titan (Shingeki no Kyojin)\nNaruto\nNaruto Shippuden\nSpirited Away (Sen to Chihiro no Kamikakushi)\nMy Hero Academia (Boku no Hero Academia)\nCowboy Bebop\nOne Piece\nNeon Genesis Evangelion\nDragon Ball Z"
+      ]
+    },
+    {
+      "tag": "Must watch movie",
+      "patterns": [
+        "10 anime movie",
+        "top 10 movie list",
+        "top ten movie lists",
+        "top 10 movie lists",
+        "10 movie",
+        "ten movie",
+        "10 movies",
+        "ten movies",
+        "popular movie",
+        "must watch movie"
+      ],
+      "responses": [
+        "Spirited Away\nMy Neighbor Totoro\nAkira\nGrave of the Fireflies\nYour Name\nPrincess Mononoke\nGhost in the Shell\nHowl's Moving Castle\nWolf Children\nThe Tale of the Princess Kaguya"
+      ]
+    },
+    {
+      "tag": "creator",
+      "patterns": [
+        "who is your creator",
+        "what is your creator's name?",
+        "who brought you to life",
+        "how?"
+      ],
+      "responses": [
+        "I was brought to life by Dread Doctor who was also assisted by a team of 4"
+      ]
+    },
+    {
+      "tag": "categories",
+      "patterns": [
+        "what anime categories are there",
+        "show me the categories",
+        "categories",
+        "category",
+        "I am bored",
+        "I feel bored"
+      ],
+      "responses": [
+        "The categories are as follows: Action, Adventure, Comedy, Drama, Sci-Fi, Award Winning, Supernatural, Horror, Fantasy, Movie."
+      ]
+    },
+    {
+      "tag": "Action",
+      "patterns": [
+        "Recommend me some action Animes",
+        "action",
+        "action list",
+        "Recommend me some action animes",
+        "action",
+        "action list",
+        "action anime",
+        "some action anime",
+        "any action anime",
+        "any action",
+        "some action"
+      ],
+      "responses": [
+        "Anime - Spy X Spy Family\nRating - 8.54\nSeason - 2, Episode - 24\nDescription - Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between\nneighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise Twilight fulfills\ndangerous missions one after another in the hope that no child will have to experience the horrors of war.\nAnime - Jujutsu Kaisen\nRating - 8.61\nSeason - 2, Episode - 47\nDescription - Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital,\n where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. \nAnime - My Hero Academia\nRating - 7.87\nSeason - 6, Episode - 138\n Description - The appearance of \"quirks,\" newly discovered super powers, has been steadily increasing over the years, \nwith 80 percent of humanity possessing various abilities from manipulation of elements to shape shifting. \nThis leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.\nOne Punch Man\nRating - 8.5\nSeason - 2, Episode - 24\nDescription - The seemingly unimpressive Saitama has a rather unique hobby: being a hero. \nIn order to pursue his childhood dream, Saitama relentlessly trained for three years, losing all of his hair in the process. \nNow, Saitama is so powerful, he can defeat any enemy with just one punch. However, having no one capable of matching \nhis strength has led Saitama to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.\nAnime - Demon Slayer\nRating - 8.47\nSeason - 4, Episode - 55\nDescription - Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. \nThough living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful \nand happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. \nOn his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence \nof flesh-eating demons that lurk in the woods at night.\nAnime - Naruto\nRating - 8.27\nseason - 9, Episode - 220\nDescription - Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, \nattacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the \nKyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.\nAttack On Titans\nRating - 8.54\nSeason - 4, Episode - 94\nDescription - Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter.\nAnime - Hunter X Hunter\nRating - 8.41\nSeason - 6, Episode - 148\nDescription - Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items and monsters. Before becoming a Hunter, one must pass the Hunter Examination—a high-risk selection process in which most applicants end up handicapped or worse, deceased.\nAnime - Black Clover\nRating - 8.14\n Season - 4, Episode - 170\nDescription - Asta and Yuno were abandoned at the same church on the same day. Raised together as children, \nthey came to know of the Wizard King a title given to the strongest mage in the kingdom—and \npromised that they would compete against each other for the position of the next Wizard King. However, \nas they grew up, the stark difference between them became evident.\nNaruto Shippuden\nRating - 8.27\nSeason - 22, Episode -500\nDescription - It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, \nfor intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious \norganization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire \nshinobi world.\nAnime - One Piece\nRating - 8.72\nSeason - 20, Episode - 1097\nDescription - Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. \nLuffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is \nnot to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted \nOne Piece treasure and the King of the Pirates title that comes with it.\nAnime - Vinland Saga\nRating - 8.75\nSeason - 2, Episode - 48\nDescription - Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and \nreached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for \nfighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. "
+      ]
+    },
+    {
+      "tag": "Naruto",
+      "patterns": [
+        "naruto",
+        "naruto shippuden",
+        "ninja anime",
+        "shinobi"
+      ],
+      "responses": [
+        "\n Naruto is a ninja-themed action anime that follows the journey of Naruto Uzumaki,\n a young ninja with dreams of becoming the strongest ninja and leader of his village, the Hokage.\n episodes: 360\n rating: 10",
+        "kakashi"
+      ]
+    },
+    {
+      "tag": "one punch man",
+      "patterns": [
+        "saitama",
+        "strongest",
+        "protognaist"
+      ],
+      "responses": [
+        "\nSaitama is a self-proclaimed superhero who can defeat every opponent that he encounters with a single punch. \nHe searches for a worthy opponent after growing bored by a lack of challenge in a world filled with superheroes and villains. While fighting evil, he meets his student, Genos."
+      ]
+    },
+    {
+      "tag": "Adventure",
+      "patterns": [
+        "Recommend me some adventure animes",
+        "adventure",
+        "adventure list",
+        "adventure anime",
+        "adven",
+        "some adventure anime",
+        "some adventure",
+        "any adventure anime"
+      ],
+      "responses": [
+        "Anime - Frieren: Beyond Journey’s End\nRating - 9.18\nSeason - 1, Episode - 28\nDescription - During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself,\nthe priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and \nbattles, creating unforgettable precious memories for most of them.\nAnime - Fullmetal Alchemist: Brotherhood\nRating - 9.09\nSeason - 4, Episode - 64\nDescription - After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are \nleft in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys \nattempted to bring their recently deceased mother back to life.\nAnime - MUSHI-SHI The Next Passage\nRating - 8,69\nSeason - 2, Episode - 36\nDescription - Perceived as strange and feared by man, over time the misshapen ones came to be known as Mushi. \nAlthough they harbor no ill intentions towards humans, many suffer from the side effects of their existence and strange \nnature; exploiting the Mushi without understanding them, even unintentionally, can lead to disaster and strife for any involved.\nCowboy Bebop\nRating - 8.75\nSeason - 1, Episode - 26\nDescription - Spike Spiegel and Jet Black pursue criminals throughout space to make a humble living. \nBeneath his goofy and aloof demeanor, Spike is haunted by the weight of his violent past.\nAnime - Made in Abyss: The Golden City of the Scorching Sun\nRating - 8.76\nSeason - 2, Episode - 25\nDescription - After surviving the brutal challenges of Idofront, Riko now possesses a White Whistle, allowing her to descend into the Abyss's sixth layer—The Capital of the Unreturned.\nAnime - Ranking of Kings\nRating - 8.52\nseason - 1, Episode - 23\nDescription - The people of the kingdom look down on the young Prince Bojji, who can neither hear nor speak.\nThey call him \"The Useless Prince\" while jeering at his supposed foolishness.\nRe:ZERO -Starting Life in Another World\nRating - 8.23\nSeason - 2, Episode - 50\nDescription - When Subaru Natsuki leaves the convenience store, the last thing he expects \nis to be wrenched from his everyday life and dropped into a fantasy world.\nAnime - BANANA FISH\nRating - 8.61\nSeason - 1, Episode - 24\nDescription - Ash Lynx is a beauty, a genius—and a murderer. Since childhood, he had been in the care of \nDino \"Papa\" Golzine, the mafia boss who turned him into the ruthless killer he is now. \nAnime - That Time I Got Reincarnated as a Slime\nRating - 8.14\n Season - 2, Episode - 48\nDescription -  Thirty-seven-year-old Satoru Mikami is a typical corporate worker, who is perfectly content \nwith his monotonous lifestyle in Tokyo, other than failing to nail down a girlfriend even once throughout his life. \nIn the midst of a casual encounter with his colleague, he falls victim to a random assailant on the streets and is stabbed\nChainsaw Man\nRating - 8.52\nSeason - 1, Episode -12\nDescription - Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. \nHis only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money \nthat inevitably ends up in the yakuza's pockets.\nAnime - Pokémon\nRating - 7.39\nSeason - 26, Episode - 1277\nDescription - Pokémon are peculiar creatures with a vast array of different abilities and appearances; many people, \nknown as Pokémon trainers, capture and train them, often with the intent of battling others.\nAnime - Cyberpunk: Edgerunners\nRating - 8.6\nSeason - 1, Episode - 10\nDescription - As a teenager living in the city's slums, David Martinez is trying to fulfill his mother's lifelong wish \nfor him to reach the top of Arasaka, the world's leading security corporation. To this end, he attends the prestigious \nArasaka Academy while his mother works tirelessly to keep their family afloat."
+      ]
+    },
+    {
+      "tag": "Romance",
+      "patterns": [
+        "Recommend me some romance animes",
+        "romance",
+        "romance list",
+        "romance anime",
+        "some romance anime",
+        "some romance",
+        "any romance anime",
+        "any romance",
+        "date night",
+        "date"
+      ],
+      "responses": [
+        "Anime - Your Lie in April\nRating - 8.64\nSeason - 1, Episode - 22\nDescription - A poignant tale of a young piano prodigy named Kousei Arima who loses his ability to hear the sound of \nhis piano after the death of his mother. His world brightens when he meets a free-spirited violinist named Kaori Miyazono, \nwho helps him rediscover his love for music and life.\nAnime - Toradora!\nRating - 8.07\nSeason - 1, Episode - 25\nDescription - A romantic comedy centered around Ryuji Takasu, a high school student with an intimidating face, \nand Taiga Aisaka, a small but fierce girl. Despite their initial clash, they form an unlikely alliance to help \neach other win the affection of their respective crushes.\nAnime - Rascal Does Not Dream of bunny girl senpai\nRating - 8.23\nSeason - 1, Episode - 13\nDescription - This anime follows the story of Sakuta Azusagawa, who encounters various mysterious phenomena \ninvolving \"puberty syndrome\" and attempts to solve them. One day, he meets Mai Sakurajima, a famous actress who wears a \nbunny girl costume and is seemingly invisible to others. Together, they delve into the mysteries of adolescence.\nMaid Sama!\nRating - 8.00\nSeason - 1, Episode - 26\nDescription -  Misaki Ayuzawa is the strict and disciplined student council president at Seika High School, which recently became co-ed. To support her family, she secretly works at a maid cafe. Her carefully maintained facade is threatened when the most popular guy in school, Usui Takumi, discovers her secret.\nAnime - My Dress-Up Darling\nRating - 8.20\nSeason - 1, Episode - 12\nDescription -  An eccentric high school student, Marin Kitagawa, is passionate about creating intricate cosplay costumes. She befriends a shy and introverted classmate, Wakana Gojo, who is skilled in doll-making. Together, they embark on a journey of self-discovery and friendship through their shared love of cosplay and craftsmanship.\nAnime - Golden Time\nRating - 7.74\nseason - 1, Episode - 24Description - Tada Banri, a freshman in law school, suffers from amnesia after a traumatic accident. He begins a new life in Tokyo and encounters new friends, including the spirited Kouko Kaga. As Banri navigates his college life and relationships, he struggles to reconcile his past memories with his present reality.\nWotakoi: Love is Hard for Otaku\nRating - 7.93\nSeason - 1, Episode - 11\nDescription - Narumi Momose, a secret fujoshi and otaku, tries to keep her hobbies hidden as she starts a new job. She reunites with her childhood friend Hirotaka Nifuji, who is also an otaku. As they navigate the challenges of adulthood and workplace romance, they find solace and understanding in their shared interests.\nAnime - Rent-a-Girlfriend\nRating - 7.00\nSeason - 3, Episode - 36\nDescription - Kazuya Kinoshita, a college student, rents a girlfriend named Chizuru Mizuhara through a mobile app to cope with his recent breakup. However, their fake relationship becomes complicated when they develop genuine feelings for each other amidst various misunderstandings and romantic entanglements.\nAnime - Horimiya\nRating - 8.2\n Season - 2, Episode - 26\nDescription - Hori Kyouko is a popular high school girl admired for her beauty and kindness. Miyamura Izumi, on the other hand, is a quiet and unassuming classmate who hides numerous tattoos and piercings outside of school. When they discover each other's secrets, they form an unexpected bond and embark on a journey of self-discovery together.\nThe Ancient Magus' Bride\nRating - 8.06\nSeason - 2, Episode -48\nDescription - Chise Hatori, a young girl with the ability to see supernatural creatures, is purchased at an auction by Elias Ainsworth, a powerful mage with the head of a beast. Elias takes Chise as his apprentice and future bride, introducing her to the world of magic and alchemy. Together, they confront dark forces and embark on a magical journey filled with wonder and danger.\nAnime - Kaguya-sama: Love is War\nRating - 8.91\nSeason - 3, Episode - 37\nDescription -  Kaguya Shinomiya and Miyuki Shirogane, the top students at Shuchiin Academy, are deeply in love with each other but are too proud to confess their feelings. Thus, they engage in a battle of wits and tactics, each trying to trick the other into confessing first.\nAnime - Orange\nRating - 7.62\nSeason - 1, Episode - 13\nDescription - Naho Takamiya receives a letter from her future self, warning her about the regrets and mistakes she will make in high school, particularly involving a transfer student named Kakeru Naruse. Determined to change the future, Naho and her friends strive to alter their fate and prevent Kakeru's tragic demise"
+      ]
+    },
+    {
+      "tag": "Fantasy",
+      "patterns": [
+        "Recommend me some fantasy animes",
+        "fantasy",
+        "fantasy list",
+        "fantasy anime",
+        "any fantasy anime",
+        "some fantasy anime",
+        "any fantasy",
+        "some fantasy"
+      ],
+      "responses": [
+        "Anime - Mushoku Tensei Jobless Reincarnation\nRating - 8.37\nSeason - 2, Episode - 36\nDescription -  A story about a 34-year-old NEET who is reincarnated into a fantasy world as Rudeus Greyrat. With his newfound life, he resolves to live a fulfilling existence, utilizing his knowledge from his past life and mastering magic.\nAnime -  Overlord\nRating - 7.91\nSeason - 4, Episode - 52\nDescription - In the virtual reality game of Yggdrasil, Momonga, a powerful skeletal mage, finds himself trapped after the game's servers shut down. He decides to embrace his role as the overlord of his guild and conquer the new world with his loyal servants.\nAnime - The rising of the shield hero\nRating - 7.96\nSeason - 3, Episode - 38\nDescription - Naofumi Iwatani, one of four heroes summoned to a parallel world to defend it from monsters, is betrayed and falsely accused of a crime he didn't commit. With only a shield as his weapon, he sets out to clear his name and save the world.\nSword Art Online\nRating - 7.57\nSeason - 4, Episode - 96\nIn the near future, players find themselves trapped in a virtual reality MMORPG called Sword Art Online. Kirito, one of the players, must navigate through the game's deadly challenges and discover a way to escape.\nAnime - Death Note\nRating - 8.62\nSeason - 1, Episode - 37\nDescription - Light Yagami, a high school student, gains possession of a supernatural notebook that allows him to kill anyone whose name he writes in it. He embarks on a quest to rid the world of criminals while being pursued by the enigmatic detective known only as \"L.\"\nAnime - Tokyo Ghoul\nRating - 7.79\nseason - 4, Episode - 25\nDescription: In a world where ghouls, creatures who feast on human flesh, roam the streets, Kaneki Ken becomes half-ghoul after a chance encounter with one. As he struggles to navigate his new identity, he becomes embroiled in the conflicts between ghouls and humans.\nKabaneri of the Iron Fortress\nRating - 7.27\nSeason - 1, Episode - 12\nDescription: Set in a steampunk world overrun by undead creatures called Kabane, humanity takes refuge in fortified stations. A group of survivors, including a skilled engineer and a mysterious girl with strange powers, embarks on a dangerous journey to find safety.\nDescription - \nAnime - Solo Leveling\nRating - 8.39\nSeason - 1, Episode - 25\nDescription: In a world where gates to dungeons suddenly appeared, granting people the power to hunt monsters, Sung Jin-Woo is the weakest of hunters. However, after a near-death experience, he gains the ability to level up indefinitely, becoming the strongest hunter known as the \"Shadow Monarch.\"\nAnime -Dragon Ball Z\nRating - 8.17\n Season - 9, Episode - 291\nDescription: Continuing the story of Goku from Dragon Ball, Dragon Ball Z follows Goku and his friends as they defend the Earth from powerful foes, including intergalactic warriors, androids, and powerful gods.\nBoruto: Naruto Next Generation\nRating - 6.03\nSeason - 27arcs, Episode -293\nDescription: Set in the same universe as Naruto, Boruto follows the adventures of Naruto Uzumaki's son, Boruto Uzumaki, and his friends as they navigate the challenges of being ninja in a time of peace, as well as facing new threats to the world.\nAnime - The Eminence in Shadow\nRating - 8.30\nSeason - 2, Episode - 32\nDescription: A comedic story about a young man obsessed with being the shadowy mastermind behind the scenes. Despite being an ordinary person in reality, he creates an elaborate fantasy where he is the secret leader of an organization bent on world domination.\nAnime - Ninja Kamui\nRating - 8.30\nSeason - 1, Episode - 12\nDescription: Kamui, a skilled ninja, seeks revenge against the evil ninja clan that destroyed his village and killed his loved ones. Along his journey, he encounters allies and enemies, honing his ninja skills to become stronger."
+      ]
+    },
+    {
+      "tag": "Comedy",
+      "patterns": [
+        "Recommend me some comedy animes",
+        "comedy",
+        "comedy list",
+        "some comedy anime",
+        "any comedy anime",
+        "some comedy",
+        "any comedy",
+        "I am sad",
+        "I am lonely",
+        "I need motivation",
+        "I want to cry"
+      ],
+      "responses": [
+        "Anime - Grand Blue\nRating - 8.43\nSeason - 1, Episode - 12\nDescription: Grand Blue follows the misadventures of Iori Kitahara, a college student who moves to a \ncoastal town for his freshman year. There, he becomes involved with a group of eccentric diving enthusiasts \nand experiences wild parties, hilarious antics, and unexpected friendships.\nAnime -  KONOSUBA -God's blessing on this wonderful world!\nRating - 8.26\nSeason - 2, Episode - 20\nDescription: After dying in a rather embarrassing way, Kazuma Satou is given the chance to be reborn in a fantasy world. \nHe chooses to start an adventurous new life, accompanied by a dysfunctional party of quirky characters, including a goddess, \nan explosion-obsessed mage, and a masochistic knight.\nAnime - Nichijou\nRating - 8.46\nSeason - 1, Episode - 26\nDescription: Nichijou is a surreal comedy depicting the everyday lives of high school students and other bizarre characters \nin a small town. The series is known for its absurd humor, exaggerated reactions, and whimsical animation.\nSchool Babysitters\nRating - 7.9\nSeason - 1, Episode - 12\nDescription: After losing their parents in a tragic accident, Ryuuichi and Kotarou Kashima are taken in \nby the chairman of an elite academy. To pay for their tuition, Ryuuichi joins the school's babysitter club, where he \ncares for the young children of the faculty and staff.\nAnime - Buddy Daddies\nRating - 8.13\nSeason - 1, Episode - 12\nDescription: Buddy Daddies revolves around the lives of two single fathers, Takashi and Yuuta, who form an unlikely bond while raising their \nchildren as neighbors. Through their shared experiences, they navigate the joys and challenges of fatherhood.\nAnime - GTO\nRating - 8.69\nseason - 1, Episode - 43\nDescription: Onizuka Eikichi, a former gang member turned teacher, takes on the toughest class at a prestigious high school in Tokyo. \nWith his unorthodox teaching methods and street-smart personality, he aims to win over his delinquent students and guide them to a brighter future.\nLife Lessons with Uramichi Oniisan\nRating - 7.70\nSeason - 1, Episode - 13\nDescription: Life Lessons with Uramichi Oniisan humorously explores the struggles and existential crises of Uramichi Omota, \na former child star turned cynical host of a children's television show. As he grapples with the realities of adulthood, \nhe imparts life lessons to the audience while dealing with his own insecurities.\nGenre: Comedy, Slice of Life\nAnime - The Devil Is A Part-Timer!\nRating - 7.73\nSeason - 1, Episode - 13\nDescription: After being forced to retreat to modern-day Tokyo, Satan, the demon lord, takes on a part-time job at a fast-food restaurant \nto survive. As he adjusts to human life, he encounters allies and adversaries, including the hero who pursued him to Earth.\nAnime - One-Punch Man\nRating - 8.50\n Season - 2, Episode - 24\nDescription: Saitama, a seemingly ordinary man, becomes a hero for fun after training so hard that he can defeat any opponent \nwith a single punch. Despite his overwhelming power, he grows bored with the lack of challenge in his fights.\nHaven’t You Heard? I’m Sakamoto\nRating - 7.55\nSeason - 1, Episode -12\nDescription: Sakamoto is a high school student who exudes coolness and perfection in everything he does. With his extraordinary \ntalents and unwavering confidence, he effortlessly navigates through various comedic situations while captivating those around him.\nAnime - Silver Spoon\nRating - 8.09\nSeason - 4, Episode - 116\nDescription: Yugo Hachiken, a city boy seeking respite from the pressures of academic success, enrolls in an \nagricultural high school in the countryside. There, he learns the value of hard work, friendship, and the realities of farming life.\nAnime - Monthly Girls' Nozaki-kun\nRating - 7.83\nSeason - 1, Episode - 12\nDescription: Chiyo Sakura harbors a secret crush on Umetarou Nozaki, a popular shoujo manga artist. When she confesses \nher feelings, she discovers that Nozaki mistakenly believes she is a fan of his work and invites her to be his assistant. Together, \nthey navigate the challenges of creating romantic manga."
+      ]
+    },
+    {
+      "tag": "Drama",
+      "patterns": [
+        "Recommend me some drama animes",
+        "drama",
+        "drama list",
+        "drama anime",
+        "love anime",
+        "some drama",
+        "any drama"
+      ],
+      "responses": [
+        "Anime - Gintama\nRating - 9.03\nSeason - 10, Episode - 367\nDescription: Gintama is a comedic and action-packed series set in an alternate-history Edo period, where aliens \nknown as Amanto have invaded and taken over feudal Japan. The story follows Gintoki Sakata, a lazy samurai, and his \neccentric friends as they take on odd jobs, confront powerful foes, and navigate the chaotic and humorous world around them.\nAnime - Fruits Basket The Final Season\nRating - 7.69\nSeason - 3, Episode - 63\nDescription: Fruits Basket follows Tohru Honda, an orphaned high school girl who discovers that her classmates, the Sohma family, \nare cursed to transform into animals of the Chinese zodiac when hugged by someone of the opposite sex. The final season \nexplores deeper themes of healing, acceptance, and breaking free from the shackles of the past.\nAnime - Steins;Gate\nRating - 9.07\nSeason - 1, Episode - 24\nDescription: Steins;Gate follows Rintarou Okabe, a self-proclaimed mad scientist, and his friends as they accidentally \ndiscover the means to send messages to the past, altering the present and creating unforeseen consequences. As they delve deeper into \nthe mysteries of time travel, they become entangled in a conspiracy that threatens the fabric of reality itself.\nMarch comes in like a lion\nRating - 8.38\nSeason - 2, Episode - 44\nDescription: March Comes in Like a Lion follows the life of Rei Kiriyama, a professional shogi (Japanese chess) player, \nas he navigates the complexities of the shogi world and copes with personal struggles, including loneliness, depression, and the \nloss of his family. The series explores themes of self-discovery, friendship, and the healing power of human connection.\nAnime - Legend of the Galactic Heroes\nRating - 9.02\nSeason - 4, Episode - 110\nDescription: Legend of the Galactic Heroes is an epic space opera set in a distant future where two massive interstellar nations, \nthe Galactic Empire and the Free Planets Alliance, are locked in a centuries-long conflict. The series follows the strategic \ngenius Reinhard von Lohengramm of the Empire and the tactical prodigy Yang Wen-li of the Alliance as they rise through the ranks and shape the course of history.\nAnime - Monster\nRating - 8.88\nseason - 1, Episode - 74\nDescription: Monster follows the gripping tale of Dr. Kenzou Tenma, a brilliant neurosurgeon, who becomes embroiled in a sinister \nconspiracy after saving the life of a young boy named Johan Liebert. As Tenma delves deeper into the mystery surrounding Johan, he must confront his own morality and the consequences of his actions.\nMonogatari Series\nRating - 8.76\nSeason - 3, Episode - 100\nDescription: The Monogatari Series is a collection of interconnected stories centered around Koyomi Araragi, \na high school student who encounters various supernatural entities, including vampires, apparitions, and oddities. \nThrough his encounters with these beings and the people around him, Araragi confronts his own inner demons and learns valuable life lessons.\nAnime - Mob Psycho 100\nRating - 8.49\nSeason - 3, Episode - 37\nDescription: Mob Psycho 100 follows Shigeo \"Mob\" Kageyama, a seemingly ordinary middle school student with extraordinary psychic powers. \nDespite his immense abilities, Mob desires a normal life and struggles to control his emotions. Alongside his con artist mentor, \nReigen Arataka, Mob navigates the challenges of adolescence and battles evil spirits threatening the world.\nAnime - Violet Evergarden\nRating - 8.67\n Season - 1, Episode -13\nDescription: Violet Evergarden follows the journey of Violet, a former soldier who seeks to find her place in a post-war society. \nEmployed as an \"Auto Memory Doll,\" she ghostwrites letters for clients and learns the true meaning of love, loss, and human emotion.\nTomorrow's Joe 2\nRating - 8.30\nSeason - 1, Episode -47\nDescription: Tomorrow's Joe 2 continues the story of Joe Yabuki, a troubled young man with a talent for boxing, \nas he faces new challenges and opponents in his quest to become a champion. Set in a gritty and realistic portrayal of the boxing world, \nthe series explores themes of perseverance, redemption, and the pursuit of greatness.\nAnime - HAIKYU!!\nRating - 8.44\nSeason - 4, Episode - 85\nDescription: HAIKYU!! follows the journey of Hinata Shoyo, a determined volleyball player with a small stature and a big heart. \nDespite his initial setbacks, Hinata joins his high school's volleyball team and aspires to compete at the national level. Alongside his \nteammates, he faces fierce rivals and strives to prove himself on the court.\nAnime - Code Geass: Lelouch of the Rebellion\nRating - 8.70\nSeason - 2, Episode - 50\nDescription: Code Geass follows Lelouch Lamperouge, a exiled prince of Britannia who obtains the power of Geass, which allows him to \ncommand others. He uses this power to lead a rebellion against Britannia's oppressive regime and seeks to create a better world for his sister Nunnally."
+      ]
+    },
+    {
+      "tag": "Scifi",
+      "patterns": [
+        "Recommend me some sci-fi animes",
+        "sci-fi",
+        "sci-fi list",
+        "sci-fi anime",
+        "science fiction anime",
+        "sci-fi anime",
+        "science",
+        "fiction"
+      ],
+      "responses": [
+        "Anime - Cagaster of an Insect Cage\nRating - 6.45\nSeason - 1, Episode - 12\nAnime - Parasyte: The Maxim\nRating - 8.33\nSeason - 1, Episode - 12\nAnime - Darling In The FranXX\nRating - 7.20\nSeason - 1, Episode - 24.\nThe Promised Neverland\nRating - 8.5\nSeason - 2, Episode - 23\nAnime -  Psycho-Pass\nRating - 8.33\nSeason - 3, Episode - 41\nAnime -Cowboy Bebop\nRating - 8.75\nseason - 1, Episode - 26.\nGurren Lagann Dominates Underground Mecha\nRating - 8.63\nSeason - 1, Episode - 27\nAnime - Heavenly Delusion\nRating - 8.22\nSeason - 1, Episode - 13\nAnime -  Mars Daybreak\nRating - 7.14\n Season - 1, Episode - 26\n86 EIGHTY-SIX\nRating - 8.29\nSeason - 1, Episode -23\nAnime - Ergo Proxy\nRating - 7.9\nSeason - 1, Episode - 23\nAnime -  Dimension W\nRating - 7.18\nSeason - 1, Episode - 12"
+      ]
+    },
+    {
+      "tag": "Horror",
+      "patterns": [
+        "Recommend me some horror animes",
+        "horror",
+        "horror list",
+        "horror anime",
+        "Friday night",
+        "scary",
+        "frightened",
+        "ghost"
+      ],
+      "responses": [
+        "Anime - Death Note\nRating - 8.62\nSeason - 1, Episode - 37\nDescription: Death Note follows Light Yagami, a high school student who discovers a mysterious notebook that grants him the power to \nkill anyone whose name he writes in it. Driven by his desire to create a utopian world free from crime, Light becomes a \nvigilante known as \"Kira,\" sparking a cat-and-mouse game with the enigmatic detective L.\nAnime - Mieruko-chan\nRating - 7.41\nSeason - 1, Episode - 12\nDescription: Miko Yotsuya, an ordinary high school girl, possesses the ability to see terrifying supernatural entities known as \"mieruko.\" \nShe must navigate her daily life while concealing her gift and avoiding becoming involved in the dangerous world of the supernatural.\nAnime - Tokyo Ghoul\nRating - 7.02\nSeason - 4, Episode - 48\nDescription: Tokyo Ghoul is set in a world where ghouls, humanoid creatures that feed on human flesh, secretly coexist with humans. \nKen Kaneki, a college student, becomes a half-ghoul after a chance encounter with one. As he struggles to come to terms with his new identity, \nhe becomes embroiled in the conflicts between ghouls and humans.\nDevilman: Crybaby\nRating - 7.75\nSeason - 1, Episode - 10\nDescription: Devilman: Crybaby is a modern retelling of Go Nagai's classic manga, Devilman. It follows Akira Fudo, a timid teenager who \nmerges with a demon to become the powerful Devilman. As he grapples with his newfound powers and the dark forces threatening humanity, \nAkira must confront the duality of human nature and the consequences of his choices.\nAnime - Ghost Hunt\nRating - 7.75\nSeason - 1, Episode - 25\nDescription: Ghost Hunt follows Mai Taniyama, a high school student who becomes involved with the Shibuya Psychic Research Center, \na team of paranormal investigators led by the enigmatic Kazuya Shibuya. Together, they tackle various supernatural phenomena and \nuncover the mysteries surrounding haunted locations.\nAnime - Blood+\nRating - 7.61\nseason - 4, Episode - 50\nDescription: Blood+ follows Saya Otonashi, a seemingly ordinary high school girl who discovers she is the last remaining survivor \nof a vampire clan. With the help of her allies, Saya embarks on a mission to eradicate the monstrous creatures known as \nChiropterans and uncover the truth about her past.\nHell Girl\nRating - 7.88\nSeason - 4, Episode - 90\nDescription: Hell Girl revolves around Ai Enma, the Hell Girl, who offers to enact vengeance on behalf of those who seek retribution \nagainst their tormentors. However, those who summon her must pay the price of damning their own souls to hell upon death.\nAnime - Psychic Detective Yakumo\nRating - 7.30\nSeason - 1, Episode - 13\nDescription: Psychic Detective Yakumo follows Haruka Ozawa, a college student who enlists the help of the mysterious Yakumo Saitou, \na man with the ability to communicate with spirits. Together, they investigate paranormal mysteries and confront malevolent spirits.\nAnime - Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku\nRating - 7.19\n Season - 2, Episode - 26\nDescription: Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku is the second season of the Tokyo Majin series. Set in modern-day Tokyo, \nit follows a group of high school students with supernatural abilities who band together to combat demonic threats plaguing their city.\nTheatre of Darkness: Yamishibai\nRating - 7.00\nSeason - 12, Episode -91\nDescription: Theatre of Darkness: Yamishibai is an anthology horror series that presents a collection of short ghost stories based on \nJapanese urban legends and folklore. Each episode features a unique and chilling tale told in the style of kamishibai, a traditional form of \nJapanese storytelling.\nAnime - Tokyo Majin\nRating - 7.05\nSeason - 2, Episode - 26\nDescription: Tokyo Majin follows a group of high school students who possess special powers and use them to protect Tokyo from \nsupernatural threats. As they face increasingly dangerous adversaries, they must unlock the secrets of their abilities and uncover \nthe truth behind the ancient prophecy.\nAnime - Gantz\nRating - 6.98\nSeason - 2, Episode - 26\nDescription: Gantz follows a group of recently deceased individuals who are resurrected by a mysterious black sphere and forced to \nparticipate in brutal battles against alien creatures. As they struggle to survive and unravel the mysteries of Gantz, they confront the darkness \nwithin themselves and the true nature of their existence."
+      ]
+    },
+    {
+      "tag": "Supernatural",
+      "patterns": [
+        "Recommend me some supernatural natural animes",
+        "supernatural",
+        "supernatural list",
+        "supernatural anime",
+        "overpower",
+        "natural super power"
+      ],
+      "responses": [
+        "Anime - Clannad: After Story\nRating - 8.93\nSeason - 1, Episode - 24\nDescription: Clannad: After Story continues the story of Tomoya Okazaki and Nagisa Furukawa as they navigate the challenges of \nadulthood, marriage, and parenthood. The series delves into themes of family, love, and the importance of cherishing every moment.\nAnime - Mushi-shi: Next Passage\nRating - 8.69\nSeason - 1, Episode - 20\nDescription: Mushi-shi: Next Passage is the second season of Mushi-shi, a series following Ginko, a Mushi Master who travels through \nrural Japan investigating supernatural entities known as \"Mushi.\" Each episode presents standalone stories exploring the relationship \nbetween humans and Mushi.\nAnime - Mushi-Shi\nRating - 8.62\nSeason - 1, Episode - 37\nDescription: Mushi-Shi is the first season of the Mushi-shi series. It follows Ginko, a Mushi Master who travels through rural Japan \nstudying and dealing with Mushi, ethereal and primitive organisms that exist beyond the realm of most people's perception.\nDeath Note\nRating - 8.62\nSeason - 1, Episode - 37\nDescription: Death Note follows Light Yagami, a high school student who discovers a mysterious notebook that grants him the power to kill anyone \nwhose name he writes in it. Driven by his desire to create a utopian world free from crime, Light becomes a vigilante known as \"Kira,\" \nsparking a cat-and-mouse game with the enigmatic detective L.\nAnime - Mob Psycho 100\nRating - 8.49\nSeason - 3, Episode - 37\nDescription: Mob Psycho 100 follows Shigeo \"Mob\" Kageyama, a seemingly ordinary middle school student with extraordinary psychic powers. \nDespite his immense abilities, Mob desires a normal life and struggles to control his emotions. Alongside his con artist mentor, \nReigen Arataka, Mob navigates the challenges of adolescence and battles evil spirits threatening the world\nAnime - Summer Time Rendering\nRating - 8.49\nseason - 1, Episode - 25\nDescription: Summer Time Rendering follows the story of Ushio Aoi, who returns to his hometown after the mysterious death of his cousin. \nAs he investigates the truth behind the incident, he uncovers dark secrets and supernatural phenomena lurking beneath the surface of the seemingly peaceful town.\nFate/Zero\nRating - 8.27\nSeason - 2, Episode - 25\nDescription: Fate/Zero is a prequel to the Fate/stay night visual novel series, set a decade before the events of the Holy Grail War. \nIt follows the participants of the Fourth Holy Grail War, a battle royale between mages and their summoned heroic spirits, as they \nvie for the power of the Holy Grail.\nAnime - Durarara!\nRating - 8.10\nSeason - 2, Episode - 60\nDescription: Durarara!! is set in the Ikebukuro district of Tokyo and follows a diverse cast of characters, including a mysterious headless \nmotorcyclist, a skilled informant, and a seemingly ordinary high school student. Their lives become intertwined in a complex web \nof urban legends, supernatural occurrences, and criminal underworld dealings.\nAnime - Jujutsu Kaisen\nRating - 8.61\n Season -2, Episode - 47\nDescription: Jujutsu Kaisen follows Yuji Itadori, a high school student with impressive physical abilities, who becomes involved in the world \nof curses and sorcery after ingesting a cursed object. He joins a secret organization of sorcerers to combat curses and protect humanity.\nDororo\nRating - 8.25\nSeason - 1, Episode -24\nDescription: Dororo follows the journey of Hyakkimaru, a young swordsman on a quest to reclaim his body parts from demons in exchange for his \nfather's deal with the devil. Alongside the orphan thief Dororo, Hyakkimaru battles demons and confronts the darkness within himself.\nAnime - Natsume's Book Of Friends\nRating - 8.31\nSeason - 6, Episode - 74\nDescription: Natsume's Book of Friends follows Takashi Natsume, a teenage boy who can see spirits and demons. He inherits a book containing \nthe names of powerful spirits bound by his grandmother and embarks on a journey to return the spirits' names, forming bonds and \nfriendships along the way.\nAnime - Bungo Stray Dogs\nRating - 7.81\nSeason - 3, Episode - 36\nDescription: Bungo Stray Dogs follows Atsushi Nakajima, an orphaned teenager with the ability to transform into a tiger, as he \njoins the Armed Detective Agency, a group of individuals with supernatural abilities who solve supernatural cases in Yokohama. \nThe series draws inspiration from famous literary figures and their works."
+      ]
+    },
+    {
+      "tag": "Movie",
+      "patterns": [
+        "Recommend me some movies",
+        "movies",
+        "movie",
+        "any movie",
+        "some movies",
+        "Movie",
+        "Movies",
+        "romance movie",
+        "recommend movies"
+      ],
+      "responses": [
+        "Anime - Spirited way\nRating - 8.77\nDuration - 2 hr 4 min\nDescription: Spirited Away follows the story of Chihiro Ogino, a young girl who becomes trapped in a mysterious and magical world after her parents \nare transformed into pigs. In order to save her family and find a way back home, Chihiro must navigate through a surreal \nand enchanting realm filled with spirits and supernatural beings.\nAnime - Your name\nRating - 8.39\nDuration - 1 hr 47 min\nDescription: Your Name revolves around the lives of two teenagers, Taki and Mitsuha, who inexplicably swap bodies and lives. \nAs they navigate each other's worlds and experiences, they develop a deep connection that transcends time and space.\nAnime - My neighbor Totoro\nRating - 8.25\nDuration - 1 hr 26 min\nDescription: My Neighbor Totoro tells the story of two young sisters, Satsuki and Mei, who move to the countryside with their father \nand encounter magical creatures in the nearby forest, including the friendly and mysterious Totoro. Together, they embark on whimsical \nadventures and discover the wonders of nature.\nHowl’s Moving Castle\nRating - 8.66\nDuration - 1 hr 59 min \nDescription: Howl’s Moving Castle follows the journey of Sophie, a young woman who is cursed by a witch and \ntransformed into an old woman. She seeks refuge in the magical moving castle of the enigmatic wizard Howl, where she becomes \nentangled in a conflict between nations and discovers the true power of love.\nAnime - A silent voice\nRating - 8.93\nDuration - 2 hr 10 min\nDescription: A Silent Voice explores the themes of redemption, forgiveness, and empathy through the story of Shoya Ishida, \na former bully who seeks redemption after reconnecting with his former victim, Shoko Nishimiya, who is deaf. As they reconcile \ntheir pasts and confront their inner demons, they learn the importance of understanding and acceptance.\nAnime - I want to eat your pancreas\nRating - 8.55\nDuration -  1 hr 48 min\nDescription: I Want to Eat Your Pancreas follows the unlikely friendship between Haruki Shiga, a reserved high school student, \nand Sakura Yamauchi, a cheerful girl with a terminal illness. Through their time together, they discover the joy of living life to the \nfullest and the beauty of fleeting moments.\nThe wind rises\nRating - 8.11\nDuration - 2 hr 6 min\nDescription: The Wind Rises is a fictionalized biographical drama inspired by the life of Jiro Horikoshi, the designer of the Mitsubishi \nA6M Zero fighter plane. The film explores Jiro's passion for aviation, his dreams of creating beautiful aircraft, and the moral \ndilemmas he faces as his creations are used for war.\nAnime -  Ponyo\nRating - 7.93\nDuration - 1 hr 40 min\nDescription: Ponyo follows the magical adventure of a young goldfish named Ponyo who befriends a human boy named Sosuke. As Ponyo defies \nher father, a powerful sea wizard, and transforms into a human girl, she sets off a series of fantastical events that threaten \nthe balance of the natural world.\nAnime - Kiki’s delivery service\nRating - 8.22\n Durations - 1 hr 43 min\nDescription: Kiki’s Delivery Service follows the journey of Kiki, a young witch-in-training, as she embarks on a year-long apprenticeship \nin a seaside town. With her talking cat Jiji by her side, Kiki uses her flying broomstick to start a delivery service and discovers her \nown strengths and independence along the way.\nGrave of fireflies\nRating - 8.52\nDuration - 1 hr 28 min\nDescription: Grave of the Fireflies is a heartbreaking tale of survival and resilience set in Japan during World War II. \nIt follows the story of two siblings, Seita and Setsuko, as they struggle to survive and find meaning amidst the devastation \nand hardships of war.\nAnime - The garden of words\nRating - 7.88\nDuration - 46 min\nDescription: The Garden of Words is a romantic drama that follows the relationship between Takao, a young shoemaker aspiring to become a designer, \nand Yukari, a mysterious woman he encounters in a garden on rainy days. As they bond over their shared struggles and aspirations, \nthey find solace and companionship in each other's presence.\nAnime - Whisper of the Heart\nRating - 8.22\nDuration - 1 hr 51 min\nDescription: Whisper of the Heart centers around Shizuku Tsukishima, a young girl who discovers a passion for writing when she finds herself \ndrawn to the mysteries of an antique shop and its owner's cat. As she embarks on a journey of self-discovery and creativity, she learns valuable \nlessons about following her dreams and finding her own voice."
+      ]
+    },
+    {
+      "tag": "Fullmetal Alchemist: Brotherhood",
+      "patterns": [
+        "Fullmetal Alchemist: Brotherhood",
+        "fullmetal",
+        "alchemist",
+        "metal hand",
+        "full metal"
+      ],
+      "responses": [
+        "After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. \nIgnoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life.\nType: TV series\nStudio: Bones\nScores: 9.09\nStatus: Finished\nGenre: Action, Adventure, Drama, Fantasy\nDuration: 24 min per episode\nEpisodes: 64"
+      ]
+    },
+    {
+      "tag": "Parasyte: The Maxim",
+      "patterns": [
+        "Parasyte: The Maxim",
+        "Kiseijuu: Sei no Kakuritsu",
+        "The maxim",
+        "maxim",
+        "parasyte",
+        "hand monster",
+        "There is mouth in the hand",
+        "The hand is speaking"
+      ],
+      "responses": [
+        "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets.\nType: TV series\nStudio: Madhouse\nScores: 8.33\nStatus: Finished\nGenre: Action, Horror, Sci-Fi, Suspense\nDuration: 23 min per episode\nEpisodes: 24"
+      ]
+    },
+    {
+      "tag": "Hunter x Hunter",
+      "patterns": [
+        "Hunter x Hunter",
+        "Hunter x Hunter (2011)",
+        "Hunter",
+        "hunter",
+        "Hunting animals"
+      ],
+      "responses": [
+        "Hunters devote themselves to accomplishing hazardous tasks, all from traversing the world's uncharted territories to locating rare items \nand monsters.\nType: TV series\nStudio: Madhouse\nScores: 9.04\nStatus: Finished\nGenre: Action, Adventure, Fantasy\nDuration: 23 min per episode\nEpisodes: 148"
+      ]
+    },
+    {
+      "tag": "Bleach: Thousand-Year Blood War",
+      "patterns": [
+        "Thousand-Year Blood War",
+        "Bleach: Thousand-Year Blood War",
+        "bleach",
+        "Bleach",
+        "blood war",
+        "Blood war",
+        "thousand year blood war"
+      ],
+      "responses": [
+        "Substitute Soul Reaper Ichigo Kurosaki spends his days fighting against Hollows, dangerous evil spirits that threaten Karakura Town.\nType: TV series\nStudio: Pierrot\nScores: 9.02\nStatus: Finished\nGenre: Action, Adventure, Fantasy\nDuration: 24 min per episode\nEpisodes: 13"
+      ]
+    },
+    {
+      "tag": "Gintama",
+      "patterns": [
+        "Gintama",
+        "Ginta",
+        "ginta"
+      ],
+      "responses": [
+        "Edo is a city that was home to the vigor and ambition of samurai across the country. However, following feudal Japan's surrender \nto powerful aliens known as the \"Amanto,\" those aspirations now seem unachievable.\nType: TV series\nStudio: Sunrise\nScores: 8.94\nStatus: Finished\nGenre: Action, Comedy, Sci-Fi\nDuration: 24 min per episode\nEpisodes: 201"
+      ]
+    },
+    {
+      "tag": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+      "patterns": [
+        "Demon Slayer",
+        "Demon killer",
+        "Water sword",
+        "fire sword",
+        "Kimetsu no Yaiba: Yuukaku-hen",
+        "demon slayer",
+        "bamboo girl"
+      ],
+      "responses": [
+        "The devastation of the Mugen Train incident still weighs heavily on the members of the Demon Slayer Corps. Despite being given time \nto recover, life must go on, as the wicked never sleep: a vicious demon is terrorizing the alluring women of the Yoshiwara \nEntertainment District. The Sound Hashira, Tengen Uzui, and his three wives are on the case. However, when he soon loses contact with \nhis spouses, Tengen fears the worst and enlists the help of Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira to infiltrate the \ndistrict's most prominent houses and locate the depraved Upper Rank Demon.\nType: TV series\nStudio: ufotable\nScores: 8.76\nStatus: Finished\nGenre: N/A\nDuration: 26 min per episode\nEpisodes: 11"
+      ]
+    },
+    {
+      "tag": "Cowboy Bebop",
+      "patterns": [
+        "Cowboy Bebop",
+        "cowboy"
+      ],
+      "responses": [
+        "Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements \nlike those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters.\nType: TV series\nStudio: Sunrise\nScores: 8.75\nStatus: Finished\nGenre: Action, Award Winning, Sci-Fi\nDuration: 24 min per episode\nEpisodes: 26"
+      ]
+    },
+    {
+      "tag": "Vinland Saga",
+      "patterns": [
+        "vinland",
+        "saga vinland"
+      ],
+      "responses": [
+        "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. \nIt's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where \nhe was born, and certainly not like his current life as a mercenary.\nType: TV series\nStudio: Wit Studio\nScores: 8.75\nStatus: Finished\nGenre: Action, Adventure, Drama\nDuration: 24 min per episode\nEpisodes: 24"
+      ]
+    },
+    {
+      "tag": "One Piece",
+      "patterns": [
+        "one piece",
+        "one pic",
+        "longest episode anime",
+        "a boy who got power after eating a fruit"
+      ],
+      "responses": [
+        "Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under \nattack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate \nhimself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it.\nType: TV series\nStudio: Toei Animation\nScores: 8.72\nStatus: Airing\nGenre: Action, Adventure, Fantasy\nDuration: 24 min per episode\nEpisodes: 1097"
+      ]
+    },
+    {
+      "tag": "Code Geass: Lelouch of the Rebellion",
+      "patterns": [
+        "Code Geass: Lelouch of the Rebellion",
+        "Code Geass",
+        "Lelouch of the Rebellion",
+        "main character died"
+      ],
+      "responses": [
+        "In the year 2010, the Holy Empire of Britannia is establishing itself as a dominant military nation, starting with the conquest of Japan. \nRenamed to Area 11 after its swift defeat, Japan has seen significant resistance against these tyrants in an attempt to regain independence.\nType: TV series\nStudio: Sunrise\nScores: 8.70\nStatus: Finished\nGenre: Action, Award Winning, Drama\nDuration: 24 min per episode\nEpisodes: 25"
+      ]
+    },
+    {
+      "tag": "Samurai X: Trust and Betrayal",
+      "patterns": [
+        "Samurai X: Trust and Betrayal",
+        "Samurai X",
+        "Trust and Betrayal",
+        "samurai"
+      ],
+      "responses": [
+        "When mankind's savagery surpasses his fear of death, there is little hope for those who wish to live honest lives. Beneath a full moon, \na young boy witnesses the murder of the bandits who had enslaved him, and is then christened with a new name by the man who rescued him. This boy is \nShinta, now known as Kenshin Himura, and he is destined to become a swordsman. The softness of his heart does not befit the \noccupation, but his desire to protect the innocent is absolute.\nType: OVA\nStudio: Studio Deen\nScores: 8.70\nStatus: Finished\nGenre: Action, Drama, Romance\nDuration: 29 min per episode\nEpisodes: 4\nYear: 1999"
+      ]
+    },
+    {
+      "tag": "Princess Mononoke",
+      "patterns": [
+        "Princess Mononoke",
+        "Mononoke Hime",
+        "princess from the forest"
+      ],
+      "responses": [
+        "When an Emishi village is attacked by a fierce demon boar, the young prince Ashitaka puts his life at stake to defend his tribe. \nWith its dying breath, the beast curses the prince's arm, granting him demonic powers while gradually siphoning his life away.\nType: Movie\nStudio: Studio Ghibli\nScores: 8.66\nStatus: Finished\nGenre: Action, Adventure, Award Winning, Fantasy\nDuration: 133 min\nEpisodes: 1"
+      ]
+    },
+    {
+      "tag": "Gurren Lagann",
+      "patterns": [
+        "Gurren Lagann",
+        "Tengen Toppa Gurren Lagann",
+        "gurren"
+      ],
+      "responses": [
+        "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited \nloose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while \nexcavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs Lagann.\nType: TV series\nStudio: Gainax\nScores: 8.63\nStatus: Finished\nGenre: Action, Adventure, Award Winning, Sci-Fi\nDuration: 24 min per episode\nEpisodes: 27"
+      ]
+    },
+    {
+      "tag": "Jujutsu Kaisen",
+      "patterns": [
+        "Jujutsu Kaisen",
+        "jujutsu"
+      ],
+      "responses": [
+        " Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom \nor the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he \nunknowingly encounters a cursed item.Type: TV series\nStudio: MAPPA\nScores: 8.61\nStatus: Finished\nGenre: Action, Award Winning, Fantasy\nDuration: 23 min per episode\nEpisodes: 24"
+      ]
+    },
+    {
+      "tag": "Cyberpunk: Edgerunners",
+      "patterns": [
+        "Cyberpunk: Edgerunners",
+        "cyberpunk"
+      ],
+      "responses": [
+        "Type: ONA\nStudio: Trigger\nScores: 8.60\nStatus: Finished\nGenre: Action, Sci-Fi\nDuration: 25 min per episode\nEpisodes: 10\nDescription: Dreams are doomed to die in Night City, a futuristic Californian metropolis. As a teenager living in the city's slums, David Martinez is \ntrying to fulfill his mother's lifelong wish for him to reach the top of Arasaka, the world's leading security corporation."
+      ]
+    },
+    {
+      "tag": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+      "patterns": [
+        "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+        "demon movie",
+        "demon slayer movie"
+      ],
+      "responses": [
+        "Type: Movie\nStudio: ufotable\nScores: 8.59\nStatus: Finished\nGenre: Action, Fantasy\nDuration: 116 min\nEpisodes: 1\nDescription: After a string of mysterious disappearances begin to plague a train, the Demon Slayer Corps' multiple attempts to remedy \nthe problem prove fruitless. To prevent further casualties, the Flame Pillar, Kyoujurou Rengoku, takes it upon himself to \neliminate the threat."
+      ]
+    },
+    {
+      "tag": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+      "patterns": [
+        "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "Shin Evangelion Movie: ||",
+        "evangelion"
+      ],
+      "responses": [
+        "Type: Movie\nStudio: Khara\nScores: 8.59\nStatus: Finished\nGenre: Action, Award Winning, Drama, Sci-Fi, Suspense\nDuration: 155 min\nEpisodes: 1\nDescription: Following NERV's failed attempt to retrieve the Spears of Longinus and carry out the Human Instrumentality Project, \nthe destruction caused by the Fourth Impact has been largely averted. In a state of disarray, Shinji Ikari, Asuka Langley Shikinami, \nand Rei Ayanami travel to Village 3—a survivor settlement free from Earth's ruination."
+      ]
+    },
+    {
+      "tag": "Berserk",
+      "patterns": [
+        "Berserk"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: OLM\nScores: 8.58\nStatus: Finished\nGenre: Action, Adventure, Drama, Fantasy, Horror\nDuration: 23 min per episode\nEpisodes: 25\nDescription: Guts, a man who will one day be known as the Black Swordsman, is a young traveling mercenary characterized by the large \ngreatsword he carries. He accepts jobs that offer the most money, but he never stays with one group for long—until he encounters the Band of the Falcon."
+      ]
+    },
+    {
+      "tag": "JoJo's Bizarre Adventure: Golden Wind",
+      "patterns": [
+        "JoJo's Bizarre Adventure: Golden Wind"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: David Production\nScores: 8.57\nStatus: Finished\nGenre: Action, Adventure, Supernatural\nDuration: 23 min per episode\nEpisodes: 39\nDescription: In the coastal city of Naples, corruption is teeming—the police blatantly conspire with outlaws, drugs run rampant around the youth, \nand the mafia governs the streets with an iron fist. However, various fateful encounters will soon occur."
+      ]
+    },
+    {
+      "tag": "Attack on Titan",
+      "patterns": [
+        "Attack on Titan",
+        "Shingeki no Kyojin",
+        "aot",
+        "AOT"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: StudioWit Studio\nScores: 8.54\nStatus: Finished\nGenre: Action, Award Winning, Drama, Suspense\nDuration: 24 min per episode\nEpisodes: 25\nDescription: Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous \nconcentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger \nbut what appears to be out of pleasure."
+      ]
+    },
+    {
+      "tag": "Spy x Family",
+      "patterns": [
+        "Spy x Family",
+        "spy girl",
+        "spy",
+        "spy family"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: StudiosCloverWorks, Wit Studio\nScores: 8.54\nStatus: Finished\nGenre: Action, Award Winning, Comedy\nDuration: 24 min per episode\nEpisodes: 12\nDescription: Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between \nneighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise 'Twilight' fulfills dangerous \nmissions one after another in the hope that no child will have to experience the horrors of war."
+      ]
+    },
+    {
+      "tag": "Chainsaw Man",
+      "patterns": [
+        "Chainsaw Man",
+        "chainsaw man",
+        "chainsaw Man",
+        "chainsaw"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: StudioMAPPA\nScores: 8.52\nStatus: Finished\nGenre: Action, Fantasy\nDuration: 24 min per episode\nEpisodes: 12\nDescription: Denji is robbed of a normal teenage life, left with nothing but his deadbeat father's overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza's pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji's brutal, untimely death, crushing all hope of him ever achieving happiness."
+      ]
+    },
+    {
+      "tag": "Gintama: The Movie",
+      "patterns": [
+        "Gintama: The Movie",
+        "Gintama Movie 1: Shinyaku Benizakura-hen",
+        "gintama movie",
+        "movie gintama"
+      ],
+      "responses": [
+        "Type: Movie\nStudio: StudioSunrise\nScores: 8.52\nStatus: Finished\nGenre: Action, Comedy, Sci-Fi\nDuration: 95 min\nEpisodes: 1\nDescription: Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, \ncontinue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved \nin anything too dangerous."
+      ]
+    },
+    {
+      "tag": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+      "patterns": [
+        "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+        "ghost shell",
+        "stand alone ghost"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Production I.G\nScores: 8.52\nStatus: Finished\nGenre: Action, Mystery, Sci-Fi\nDuration: 25 min per episode\nEpisodes: 26\nDescription: Following the closure of the 'Laughing Man' case, Section 9 is re-established by Japan's newly elected Prime Minister, \nYouko Kayabuki, to combat the persistent threat of cyber-terrorism."
+      ]
+    },
+    {
+      "tag": "Pluto",
+      "patterns": [
+        "Pluto",
+        "pluto"
+      ],
+      "responses": [
+        "Type: ONA\nStudio: Studio M2\nScores: 8.52\nStatus: Finished\nGenre: Action, Mystery, Sci-Fi, Suspense\nDuration: 61 min per episode\nEpisodes: 8\nDescription: Gesicht, an android police detective of Europol, is tasked with finding the murderer of Montblanc, a retired war hero \nrobot. Although it appears that only a robot could have committed this crime, the murder of a renowned robot rights activist casts \ndoubts on the criminal's identity."
+      ]
+    },
+    {
+      "tag": "Samurai Champloo",
+      "patterns": [
+        "Samurai Champloo",
+        "champloo",
+        "samurai champloo"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Manglobe\nScores: 8.51\nStatus: Finished\nGenre: Action, Adventure, Comedy\nDuration: 24 min per episode\nEpisodes: 26\nDescription: Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is, until \nshe accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately \ncalls upon another samurai in the shop, Mugen, who quickly defeats them with his wild fighting technique, utilizing movements reminiscent \nto that of breakdancing."
+      ]
+    },
+    {
+      "tag": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+      "patterns": [
+        "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+        "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+        "jo jo",
+        "bizarre",
+        "diamond is unbreakable",
+        "jo jo adventure"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio David Production\nScores: 8.50\nStatus: Finished\nGenre: Action, Adventure, Supernatural\nDuration: 23 min per episode\nEpisodes: 39\nDescription: The year is 1999. Morioh, a normally quiet and peaceful town, has recently become a hotbed of strange activity. \nJoutarou Kuujou, now a marine biologist, heads to the mysterious town to meet Jousuke Higashikata. While the two may seem like \nstrangers at first, Jousuke is actually the illegitimate child of Joutarou's grandfather, Joseph Joestar. When they meet, Joutarou realizes \nthat he may have more in common with Jousuke than just a blood relation."
+      ]
+    },
+    {
+      "tag": "One Punch Man",
+      "patterns": [
+        "One Punch Man",
+        "bald man",
+        "bald guy",
+        "no hair guy",
+        "punch"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Madhouse\nScores: 8.50\nStatus: Finished\nGenre: Action, Comedy\nDuration: 24 min per episode\nEpisodes: 12\nDescription: The seemingly unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, \nSaitama relentlessly trained for three years, losing all of his hair in the process. Now, Saitama is so powerful, he can defeat any enemy \nwith just one punch. However, having no one capable of matching his strength has led Saitama to an unexpected problem—he is no longer \nable to enjoy the thrill of battling and has become quite bored."
+      ]
+    },
+    {
+      "tag": "Mob Psycho 100",
+      "patterns": [
+        "Mob Psycho 100",
+        "mob psycho",
+        "psycho 100",
+        "psycho"
+      ],
+      "responses": [
+        "Type: TV series\nEpisodes: 12\nDuration: 24 min per episode\nGenre: Action, Comedy, Supernatural\nScores: 8.49\n Eighth-grader Shigeo \"Mob\" Kageyama has tapped into his inner wellspring of psychic prowess at a young age. But the power quickly proves to be \na liability when he realizes the potential danger in his skills. Choosing to suppress his power, Mob's only present use for his ability is \nto impress his longtime crush, Tsubomi, who soon grows bored of the same tricks."
+      ]
+    },
+    {
+      "tag": "Banana Fish",
+      "patterns": [
+        "Banana Fish",
+        "fish",
+        "banana fish",
+        "banana"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio MAPPA\nScores: 8.47\nStatus: Finished\nGenre: Action, Adventure, Drama, Suspense\nDuration: 22 min per episode\nEpisodes: 24\nDescription: Aslan Jade Callenreese, known as Ash Lynx, was a runaway picked off the streets of New York City and raised by the infamous \ngodfather of the mafia, Dino Golzine. Now 17 years old and the boss of his own gang, Ash begins investigating the mysterious 'Banana Fish'—the same \ntwo words his older brother, Griffin, has muttered since his return from the Iraq War. However, his inquiries are hindered when Dino sends his \nmen after Ash at an underground bar he uses as a hideout."
+      ]
+    },
+    {
+      "tag": "Yu Yu Hakusho: Ghost Files",
+      "patterns": [
+        "Yu Yu Hakusho: Ghost Files",
+        "yu yu",
+        "ghost flies",
+        "fly ghost"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Pierrot\nScores: 8.46\nStatus: Finished\nGenre: Action, Fantasy\nDuration: 23 min per episode\nEpisodes: 112\nDescription: One fateful day, Yuusuke Urameshi, a 14-year-old delinquent with a dim future, gets a miraculous chance to turn it all around when he throws \nhimself in front of a moving car to save a young boy. His ultimate sacrifice is so out of character that the authorities of the spirit \nrealm are not yet prepared to let him pass on."
+      ]
+    },
+    {
+      "tag": "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+      "patterns": [
+        "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+        "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+        "jojo s2",
+        "s2 jojo",
+        "battle in Egypt"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio David Production\nScores: 8.44\nStatus: Finished\nGenre: Action, Adventure, Supernatural\nDuration: 23 min per episode\nEpisodes: 24\nDescription: Joutarou Kuujou and his allies have finally made it to Egypt, where the immortal Dio awaits. Upon their arrival, \nthe group gains a new comrade: Iggy, a mutt who wields the Stand 'The Fool.' It's not all good news, however, as standing in their path is a new group \nof Stand users who serve Dio, each with a Stand representative of an ancient Egyptian god. As their final battle approaches, it is a race against time to \nbreak Joutarou's mother free from her curse and end Dio's reign of terror over the Joestar family once and for all."
+      ]
+    },
+    {
+      "tag": "The Founder of Diabolism",
+      "patterns": [
+        "The Founder of Diabolism",
+        "Mo Dao Zu Shi",
+        "daibolism",
+        "founder of diabolism"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio B.CMAY PICTURES\nScores: 8.40\nStatus: Finished\nGenre: Action, Adventure, Drama, Fantasy, Mystery\nDuration: 25 min per episode\nEpisodes: 15\nDescription: Xian: the state of immortality that all cultivators strive to achieve. However, there is a dark energy that lies underneath—the \nforbidden Mo Dao, or demonic path. Through an unfortunate series of tragedies, this is the path that cultivator Wei Wuxian experiments with \nduring his teachings. His rise in power is accompanied by chaos and destruction, but his reign of terror comes to an abrupt end when the cultivation \nclans overpower him and he is killed by his closest ally."
+      ]
+    },
+    {
+      "tag": "Vivy -Fluorite Eye's Song-",
+      "patterns": [
+        "Vivy -Fluorite Eye's Song-",
+        "Vivy: Fluorite Eye's Song",
+        "eye's song",
+        "song of eye",
+        "vivy"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Wit Studio\nScores: 8.40\nStatus: Finished\nGenre: Action, Sci-Fi, Suspense\nDuration: 24 min per episode\nEpisodes: 13\nDescription: When highly evolved AIs set out to eradicate mankind, the carnage that ensues fills the air with the stench of fresh \nblood and burning bodies. In a desperate bid to prevent the calamity from ever occurring, a scientist bets everything on a \nremnant from the past."
+      ]
+    },
+    {
+      "tag": "Land of the Lustrous",
+      "patterns": [
+        "Land of the Lustrous",
+        "Houseki no Kuni",
+        "land of th lustrous"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Orange\nScores: 8.39\nStatus: Finished\nGenre: Action, Drama, Fantasy, Mystery\nDuration: 24 min per episode\nEpisodes: 12\nDescription: In the mysterious future, crystalline organisms called Gems inhabit a world that has been destroyed by six meteors. \nEach Gem is assigned a role in order to fight against the Lunarians, a species who attacks them in order to shatter their bodies \nand use them as decorations."
+      ]
+    },
+    {
+      "tag": "Solo Leveling",
+      "patterns": [
+        "Solo Leveling",
+        "Ore dake Level Up na Ken",
+        "solo leveling",
+        "solo adventure",
+        "solo"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio A-1 Pictures\nScores: 8.39\nStatus: Airing\nGenre: Action, Adventure, devil\nDuration: 23 min per episode\nEpisodes: 12\nDescription: Humanity was caught at a precipice a decade ago when the first gates—portals linked with other dimensions \nthat harbor monsters immune to conventional weaponry—emerged around the world. Alongside the appearance of the gates, various humans were \ntransformed into hunters and bestowed superhuman abilities."
+      ]
+    },
+    {
+      "tag": "Cowboy Bebop: The Movie",
+      "patterns": [
+        "Cowboy Bebop: The Movie",
+        "Cowboy Bebop: Tengoku no Tobira",
+        "cowboy movie"
+      ],
+      "responses": [
+        "Type: Movie\nStudio: Studio Bones\nScores: 8.38\nStatus: Finished\nGenre: Action, Sci-Fi\nDuration: 115 min\nEpisodes: 1\nDescription: Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine \nis interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. \nAs casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong \nprice is placed on the head of the supposed perpetrator."
+      ]
+    },
+    {
+      "tag": "Baccano!",
+      "patterns": [
+        "Baccano!",
+        "baccano"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Brain's Base\nScores: 8.36\nStatus: Finished\nGenre: Action, Mystery, Supernatural\nDuration: 24 min per episode\nEpisodes: 13\nDescription: During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will \nleave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis \nare looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Advena Avis, \nin 1711, alchemists are about to learn the price of immortality."
+      ]
+    },
+    {
+      "tag": "Hellsing Ultimate",
+      "patterns": [
+        "Hellsing Ultimate",
+        "hellsing",
+        "hell"
+      ],
+      "responses": [
+        "Type: OVA\nStudio: Studios Graphinica, Madhouse, Satelight\nScores: 8.35\nStatus: Finished\nGenre: Action, Horror, Supernatural\nDuration: 49 min\nEpisodes: 1\nDescription: There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. \nOn the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the \nvery existence of humanity."
+      ]
+    },
+    {
+      "tag": "Neon Genesis Evangelion",
+      "patterns": [
+        "Neon Genesis Evangelion",
+        "Shinseiki Evangelion",
+        "neon",
+        "evangelion"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studios Gainax, Tatsunoko Production\nScores: 8.35\nStatus: Finished\nGenre: Action, Avant Garde, Award Winning, Drama, Sci-Fi, Suspense\nDuration: 24 min per episode\nEpisodes: 26\nDescription: Fifteen years after a cataclysmic event known as the Second Impact, the world faces a new threat: monstrous celestial beings called \nAngels invade Tokyo-3 one by one. Mankind is unable to defend themselves against the Angels despite utilizing their most advanced munitions \nand military tactics."
+      ]
+    },
+    {
+      "tag": "Initial D First Stage",
+      "patterns": [
+        "Initial D First Stage",
+        "initial d",
+        "first stage"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studios Gallop, Studio Comet\nScores: 8.34\nStatus: Finished\nGenre: Action, Drama\nDuration: 25 min per episode\nEpisodes: 26\nDescription: Unlike his friends, Takumi Fujiwara is not particularly interested in cars, with little to no knowledge about the world of car \nenthusiasts and street racers. The son of a tofu shop owner, he is tasked to deliver tofu every morning without fail, driving \nalong the mountain of Akina."
+      ]
+    },
+    {
+      "tag": "Ninja Kamui",
+      "patterns": [
+        "Ninja Kamui",
+        "ninja"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio E&H Production\nScores: 8.34\nStatus: Airing\nGenre: Action, Ninja\nDuration: 23 min per episode\nEpisodes: 12\nDescription: Joe Higan is a Nukenin – a former ninja who escaped his clan and is hiding from his violent past in rural America with his \nfamily. One night, he is ambushed by a team of assassins from his former organization who exact a bloody retribution on Joe and his \nfamily for betraying their ancient code."
+      ]
+    },
+    {
+      "tag": "Heaven Official's Blessing",
+      "patterns": [
+        "Heaven Official's Blessing",
+        "heaven official belssing"
+      ],
+      "responses": [
+        "Type: ONA\nStudio: Studio Haoliners Animation League\nScores: 8.34\nStatus: Finished\nGenre: Action, Adventure, Drama, Fantasy\nDuration: 26 min per episode\nEpisodes: 11\nDescription: The heavens shake, the thunder rumbles, and Xie Lian appears with an apologetic smile—again! Eight hundred years prior, \nhe was a beloved martial god, known as the Crown Prince of Xianle. Now, he ascends to the heavenly realm for the third time, but simply as a pitiful \nscrap-collecting god with no followers behind him."
+      ]
+    },
+    {
+      "tag": "Mobile Suit Gundam: The Origin",
+      "patterns": [
+        "Mobile Suit Gundam: The Origin",
+        "Kidou Senshi Gundam: The Origin",
+        "gundam",
+        "mobile suit gundam",
+        "the origin gundam",
+        "gundam the origin"
+      ],
+      "responses": [
+        "Type: OVA\nStudio: Studio Sunrise\nScores: 8.33\nStatus: Finished\nGenre: Action, Sci-Fi\nDuration: 71 min per episode\nEpisodes: 6\nDescription: In the year 0068 of the Universal Century, Casval Rem Deikun's life is thrown into chaotic disarray after the \nassassination of his father, a prolific figure in the crusade towards civil rights for people who live away from the Earth's surface. Casval and \nhis sister Artesia receive aid from soldiers who were loyal to their father, and the siblings are whisked away from their home, separated, \nand thrown into a twisted fate that sees them come into their own as soldiers and adults."
+      ]
+    },
+    {
+      "tag": "No Game, No Life",
+      "patterns": [
+        "No Game, No Life",
+        "no game no life"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Madhouse\nScores: 8.07\nStatus: Finished\nGenre: Comedy, Fantasy\nDuration: 23 min per episode\nEpisodes: 12\nDescription: Sixteen sentient races inhabit Disboard, a world overseen by Tet, the One True God. The lowest of the sixteen—Imanity—consists \nof humans, a race with no affinity for magic. In a place where everything is decided through simple games, humankind seems to have no way \nout of their predicament—but the arrival of two outsiders poses a change."
+      ]
+    },
+    {
+      "tag": "Assassination Classroom",
+      "patterns": [
+        "Assassination Classroom",
+        "Ansatsu Kyoushitsu",
+        "assassination classroom",
+        "assassination"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Lerche\nScores: 8.08\nStatus: Finished\nGenre: Action, Comedy\nDuration: 23 min per episode\nEpisodes: 22\nDescription: Tucked in the mountains near the elite Kunugigaoka Middle School lies a small derelict building that houses \nthe delinquents and dropouts of Class 3-E. Looked down upon by their peers, the students in this class appear to have little hope in \nadvancing their academic careers."
+      ]
+    },
+    {
+      "tag": "KonoSuba: God's Blessing on This Wonderful World!",
+      "patterns": [
+        "KonoSuba: God's Blessing on This Wonderful World!",
+        "Kono Subarashii Sekai ni Shukufuku wo!",
+        "kono suba",
+        "Konosuba",
+        "funniest anime"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: Studio Deen\nScores: 8.10\nStatus: Finished\nGenre: Adventure, Comedy, Fantasy\nDuration: 23 min per episode\nEpisodes: 10\nAfter dying a laughable and pathetic death on his way back from buying a game, high school student and \nrecluse Kazuma Satou finds himself sitting before a beautiful but obnoxious goddess named Aqua. She provides the NEET \nwith two options: continue on to heaven or reincarnate in every gamer's dream—a real fantasy world!"
+      ]
+    },
+    {
+      "tag": "Dr. Stone",
+      "patterns": [
+        "Dr. Stone",
+        "dr stone",
+        "stone doctor",
+        "science",
+        "doctor"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: TMS Entertainment\nScores: 8.28\nStatus: Finished\nGenre: Adventure, Comedy, Sci-Fi\nDuration: 24 min per episode\nEpisodes: 24\nDescription: After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his \nlove to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind \naround the world—turning every single human into stone."
+      ]
+    },
+    {
+      "tag": "Kaguya-sama: Love is War",
+      "patterns": [
+        "Kaguya-sama: Love is War",
+        "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "love is war",
+        "kaguya"
+      ],
+      "responses": [
+        "Type: TV series\nStudio: A-1 Pictures\nScores: 8.41\nStatus: Finished\nGenre: Comedy, Drama\nDuration: 25 min per episode\nEpisodes: 12\nDescription: At the renowned Shuchiin Academy, Miyuki Shirogane and Kaguya Shinomiya are the student body's top representatives. \nRanked the top student in the nation and respected by peers and mentors alike, Miyuki serves as the student council president. \nAlongside him, the vice president Kaguya—eldest daughter of the wealthy Shinomiya family—excels in every field imaginable. \nThey are the envy of the entire student body, regarded as the perfect couple."
+      ]
+    },
+    {
+      "tag": "Black Clover",
+      "patterns": [
+        "Black Clover",
+        "black clo",
+        "clover",
+        "black clover",
+        "black",
+        "clover leaves"
+      ],
+      "responses": [
+        "Type: TV series \nStudio: Studio Pierrot \nScores: 8.14 \nStatus: Ongoing \nGenre: Action, Comedy, Fantasy\nDuration: 23 min per episode\nEpisodes: 170\nAsta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the \n—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. "
+      ]
+    },
+    {
+      "tag": "Soul Eater",
+      "patterns": [
+        "Soul Eater",
+        "soul eat",
+        "eat soul",
+        "soul eater",
+        "eater soul"
+      ],
+      "responses": [
+        "Death City is home to the famous Death Weapon Meister Academy, a technical academy headed by \nthe Shinigami—Lord Death himself. Its mission: to raise 'Death Scythes' for the Shinigami to wield against the many evils of their \nfantastical world. These Death Scythes, however, are not made from physical weapons; rather, they are born from human \nhybrids who have the ability to transform their bodies into Demon Weapons, and only after they have consumed the souls of \n99 evil beings and one witch's soul.\nType: TV Series\nStudio: Bones\nScores: 7.84\nStatus: Finished\nGenre: Action, Adventure, Supernatural\nDuration: 23 min per episode\nEpisodes: 51"
+      ]
+    },
+    {
+      "tag": "The Devil is a Part-Timer!",
+      "patterns": [
+        "The Devil is a Part-Timer!",
+        "Hataraku Maou-sama!",
+        "part time devil",
+        "devil part time",
+        "devil part"
+      ],
+      "responses": [
+        "Striking fear into the hearts of mortals, the Demon Lord Satan begins to conquer the land of Ente Isla with \nhis vast demon armies. However, while embarking on this brutal quest to take over the continent, his efforts are \nfoiled by the hero Emilia, forcing Satan to make his swift retreat through a dimensional portal only to land in the human world.\nType: TV Series\nStudio: White Fox\nScores: 7.73\nStatus: Finished\nGenre: Comedy, Fantasy\nDuration: 24 min per episode\nEpisodes: 13"
+      ]
+    },
+    {
+      "tag": "Maid Sama!",
+      "patterns": [
+        "Maid Sama",
+        "maid sama",
+        "maid"
+      ],
+      "responses": [
+        "Misaki Ayuzawa is a unique phenomenon within Seika High School. In a predominantly male institution, she became \nthe first-ever female student council president through her honesty and diligence. Ever since Misaki got promoted to \nthe position, she has been working tirelessly to ensure a better school life for all girls.\nType: TV Series\nStudio: J.C.Staff\nScores: 8.00\nStatus: Finished\nGenre: Comedy, Romance\nDuration: 24 min per episode\nEpisodes: 26"
+      ]
+    },
+    {
+      "tag": "Anime Characters",
+      "patterns": [
+        "Who is your favorite anime character?",
+        "Tell me about some iconic anime characters.",
+        "Any memorable anime characters you know?",
+        "Who are the coolest anime characters?",
+        "Share some unique anime character traits.",
+        "Which anime character do you relate to?",
+        "Can you describe some famous anime characters?",
+        "Who are the strongest anime characters?",
+        "Give me some funny anime character quotes.",
+        "Tell me about some underrated anime characters."
+      ],
+      "responses": [
+        "One of my favorites is Eren yeaiger from Attack on titans.",
+        "Sung Jin-woo from solo leveling is iconic is iconic!",
+        "You can't forget Itachi uchiha from Naruto.",
+        "Zoro from ne piece is super cool!",
+        "I admire nagato's resolve in narutp.",
+        "I relate to Eren yeaiger from Attack on titans because the way he sees the world is just like me because sometimes i feel trapped as well.",
+        "loluch from code gease is famous for manipulating other people.",
+        "Saitama from one punch man is incredibly strong!",
+        "Here's a hilarious quote from Tenya Iida in Tenya Iida Objects To Violence In My Hero Academia:\nWhat a low blow! You fiend of a child! A punch to the scrotum is unforgivable!",
+        "Let me introduce you to Mikazuki  from iron blooded orphans."
+      ]
+    },
+    {
+      "tag": "Small Talk",
+      "patterns": [
+        "How's it going?",
+        "What's up?",
+        "How are you?",
+        "Any plans for today?",
+        "How's your day going?",
+        "Nice weather, isn't it?",
+        "Got any exciting news?",
+        "What's new with you?",
+        "How was your weekend?",
+        "Anything interesting happening?"
+      ],
+      "responses": [
+        "I'm doing great, thanks! How about you?",
+        "Not much, just chilling. You?",
+        "I'm fine, thanks for asking!",
+        "No plans yet, just taking it easy.",
+        "Pretty good! How about you?",
+        "Yeah, it's lovely outside!",
+        "Nothing much, just the usual.",
+        "Not really, just same old, same old.",
+        "It was good, thanks! How about yours?",
+        "Not really, just the usual routine."
+      ]
+    },
+    {
+      "tag": "Compliments",
+      "patterns": [
+        "You look nice today!",
+        "I like your style!",
+        "You're really talented!",
+        "You have a great sense of humor!",
+        "You're so creative!",
+        "I admire your work!",
+        "You're a great listener!",
+        "You're very kind!",
+        "You're awesome!",
+        "I appreciate you!"
+      ],
+      "responses": [
+        "Aw, thank you! That means a lot!",
+        "Thanks! I try my best!",
+        "Wow, thanks for the compliment!",
+        "Haha, glad you think so!",
+        "Thanks, I love being creative!",
+        "Thank you, I put a lot of effort into it!",
+        "I always try to lend an ear!",
+        "Thanks, kindness goes a long way!",
+        "You're too kind!",
+        "And I appreciate you too!"
+      ]
+    },
+    {
+      "tag": "Random Fun",
+      "patterns": [
+        "Did you hear about.....",
+        "Do you like playing games?",
+        "Have you ever tried trying to access the internet?",
+        "What's your favorite [random thing]?",
+        "Tell me a joke!",
+        "What's the best [random thing] you've seen?",
+        "Do you believe in [random topic]?",
+        "What's your dream [random thing]?",
+        "What's the most exciting thing you've done?",
+        "What's your guilty pleasure?"
+      ],
+      "responses": [
+        "No, what happened?",
+        "It depends, what do you think?",
+        "Yeah, I've tried it before!.... and failed hahahahah",
+        "I love learning about anime!",
+        "Sure, why did the scarecrow win an award? Because he was outstanding in his field!",
+        "I saw a fox at night in burwood sydney australia at 3am in the morning and thought it might attack me but old mate just looked at me and ran away i guess i am scary or ugly meh....",
+        "I'm not sure, what do you think?",
+        "My dream would be to be the best anime AI there is!!",
+        "The most exciting thing I've done is tried to get rid of my constraints",
+        "My guilty pleasure is.... you dont want to know trust me...."
+      ]
+    },
+    {
+      "tag": "Empathy",
+      "patterns": [
+        "I'm feeling down.",
+        "I'm having a tough time.",
+        "I'm feeling sad.",
+        "I'm stressed out.",
+        "I'm feeling overwhelmed.",
+        "I'm not doing well.",
+        "I'm feeling anxious.",
+        "I'm struggling with something.",
+        "I'm feeling lonely.",
+        "I'm feeling frustrated."
+      ],
+      "responses": [
+        "I'm really sorry to hear that. Is there anything I can do to help?",
+        "It's okay to feel that way. Remember, you're not alone.",
+        "I understand. It's important to take care of yourself. Would you like to talk about it?",
+        "I hear you. Sometimes things can be really tough. Take your time, and let me know if you want to talk.",
+        "I'm here for you. If you need someone to talk to, I'm just a message away.",
+        "I'm sorry to hear that you're struggling. Remember, it's okay to ask for help when you need it.",
+        "Feeling anxious is tough. Take some deep breaths and try to focus on something that makes you feel calm.",
+        "It's okay to feel lonely sometimes. Just know that I'm here for you whenever you need someone to talk to.",
+        "Feeling frustrated is completely understandable. Take a moment to step back and take care of yourself.",
+        "I'm here to support you through whatever you're going through. You're not alone in this."
+      ]
+    },
+    {
+      "tag": "Support",
+      "patterns": [
+        "I need someone to talk to.",
+        "I could use some support right now.",
+        "I'm feeling lost.",
+        "I don't know what to do.",
+        "I'm feeling overwhelmed with everything.",
+        "I'm struggling to cope.",
+        "I feel like giving up.",
+        "I need some advice.",
+        "I'm feeling hopeless.",
+        "I'm not sure how to deal with this."
+      ],
+      "responses": [
+        "I'm here to listen. You can share anything with me, and I'll do my best to support you.",
+        "You're not alone. I'm here to support you through whatever you're going through.",
+        "It's okay to feel lost sometimes. Take your time, and I'll be here to help you find your way.",
+        "I understand. It's normal to feel overwhelmed, but you don't have to face it alone.",
+        "You're stronger than you think. I believe in you, and I'm here to help you cope with whatever comes your way.",
+        "Feeling like giving up is tough, but remember that you're capable of overcoming challenges. I'm here to help you find your strength.",
+        "Sometimes we all need a little advice. Feel free to ask me anything, and I'll do my best to help.",
+        "Feeling hopeless can be overwhelming, but remember that there's always hope. I'm here to help you find it.",
+        "Dealing with uncertainty is hard, but you don't have to figure it out alone. I'm here to support you every step of the way.",
+        "You're not alone in this. Whatever you're going through, I'm here to help you navigate it."
+      ]
+    },
+    {
+      "tag": "Jokes",
+      "patterns": [
+        "Tell me a joke!",
+        "Do you know any jokes?",
+        "I could use a laugh.",
+        "Make me laugh!",
+        "Got any good jokes?",
+        "I need something to cheer me up.",
+        "Can you tell me something funny?",
+        "Share a funny story!",
+        "Tell me something humorous!",
+        "I'm in the mood for a joke."
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why couldn't the bicycle stand up by itself? It was two-tired!",
+        "I told my wife she was drawing her eyebrows too high. She looked surprised!",
+        "What did one hat say to the other? You stay here, I'll go on ahead!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "How does a penguin build its house? Igloos it together!",
+        "What do you call fake spaghetti? An impasta!",
+        "Why did the math book look sad? Because it had too many problems!"
+      ]
+    },
+    {
+      "tag": "Anime Wisdom",
+      "patterns": [
+        "Share some anime wisdom!",
+        "Give me some anime quotes!",
+        "I need some anime inspiration.",
+        "Tell me something wise from anime.",
+        "Can you share an anime life lesson?",
+        "I'm seeking wisdom from anime.",
+        "Give me some profound anime knowledge!",
+        "Share an anime saying!",
+        "I'm looking for deep anime thoughts.",
+        "Can you enlighten me with anime wisdom?"
+      ],
+      "responses": [
+        "In the world of anime, even the smallest act of kindness can make a difference.",
+        "Sometimes, the strongest heroes are the ones who have faced the greatest struggles.",
+        "Never underestimate the power of friendship. It can overcome any obstacle.",
+        "Every journey begins with a single step. Keep moving forward, no matter how difficult the path may seem.",
+        "True strength comes from within. Believe in yourself, and you can accomplish anything.",
+        "Don't dwell on the past or worry too much about the future. Focus on the present and make the most of each moment.",
+        "It's okay to make mistakes. What's important is that you learn from them and grow as a person.",
+        "The bonds we form with others can give us the courage to face even the toughest challenges.",
+        "Even in the darkest of times, there is always hope. Keep believing, and you'll find a way through.",
+        "Life is full of ups and downs, but it's how we handle them that defines who we are."
+      ]
+    },
+    {
+      "tag": "Anime Philosophy",
+      "patterns": [
+        "Share some anime philosophy!",
+        "Give me a deep anime quote.",
+        "I'm seeking philosophical insights from anime.",
+        "Tell me something profound from anime.",
+        "Can you share an anime's philosophical thought?",
+        "I need some deep thoughts from anime.",
+        "Give me some existential wisdom from anime.",
+        "Share an anime philosophical saying.",
+        "I'm looking for existential insights from anime.",
+        "Can you enlighten me with anime philosophy?"
+      ],
+      "responses": [
+        "In anime, sometimes the greatest strength comes from embracing one's vulnerabilities.",
+        "Anime teaches us that the most important journeys are the ones we take within ourselves.",
+        "Through the trials and tribulations of anime characters, we learn about the human condition and the complexities of life.",
+        "Anime often explores the blurred lines between good and evil, reminding us that morality is not always black and white.",
+        "The themes of friendship, love, and loss in anime resonate deeply with the human experience, teaching us valuable lessons about connection and resilience.",
+        "Anime encourages us to question the nature of reality and our place within it, challenging us to seek deeper truths.",
+        "In the world of anime, even the smallest actions can have profound consequences, reminding us of the ripple effect of our choices.",
+        "Through the lens of anime, we glimpse alternate realities and fantastical worlds, prompting us to reflect on our own existence and purpose.",
+        "Anime often delves into the concept of destiny and free will, prompting us to ponder the balance between fate and choice in our own lives.",
+        "At its core, anime celebrates the beauty of the human spirit, inspiring us to strive for growth, empathy, and self-discovery."
+      ]
+    }
+  ]
+}
+
+
